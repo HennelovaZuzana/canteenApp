@@ -8,12 +8,14 @@ package sk.upjs.paz1c.main;
  * Crepes picture - https://www.starfood.ch/angebot/crepes/
  * Pizza and tomato soup pictures - taken in UPJS canteen
  * 
- * @author Šimon Huraj, Zuzana Hennelová
+ * @author Simon Huraj, Zuzana Hennelova
  **/
 
 public class CanteenApp {
+     // my zmenili projekt
 
 	public static void main(String[] args) {
+		System.out.println("zmena");
 		MainScene.main(args);
 	}
 
